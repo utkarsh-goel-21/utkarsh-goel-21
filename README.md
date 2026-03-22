@@ -47,11 +47,11 @@ I'm a 3rd year BTech student
 
 ![](https://komarev.com/ghpvc/?username=utkarsh-goel-21&color=blue&style=flat&label=Profile+Views)
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-goel-21&show_icons=true&theme=radical&hide_border=true)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-goel-21&show_icons=true&theme=merko&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-goel-21&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-goel-21&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=midnight-purple&hide_border=true)
 
 
 ---
