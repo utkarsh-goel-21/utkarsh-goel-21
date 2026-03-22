@@ -49,6 +49,8 @@ I'm a 3rd year BTech student
 
 ![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-goel-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh-goel-21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-goel-21&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=tokyo-night&hide_border=true)
