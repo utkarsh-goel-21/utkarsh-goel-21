@@ -51,7 +51,7 @@ I'm a 3rd year BTech student
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-goel-21&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=chartreuse-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=github-dark&hide_border=true)
 
 
 ---
