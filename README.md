@@ -51,7 +51,6 @@ I'm a 3rd year BTech student
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh-goel-21&theme=tokyo-night&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh-goel-21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
