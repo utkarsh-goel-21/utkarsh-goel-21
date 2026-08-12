@@ -1,6 +1,6 @@
 # Hi, I'm Utkarsh 👋
 
-I'm a 3rd year BTech student
+I'm a 4th year BTech student
 
 ---
 
@@ -38,7 +38,7 @@ I'm a 3rd year BTech student
 
 ## 🚀 What I'm Working On
 
-- 🔨 Building full stack projects - real-time apps, REST APIs, browser extensions
+- 🔨 Building projects - real-time apps, REST APIs, browser extensions
 - 📚 Exploring ML working on models and understanding the math behind them
 
 ---
